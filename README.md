@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-<a href="https://www.tiktok.com/@prtma_282?_t=8dx7KuAhbqE&_r=1" target="blank"><img align="center" src=""https://www.freepnglogos.com/pics/tik-tok-logo" title=""><img src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" width="80" alt="tik tok how use tiktok create cool videos with iphone" /></a>
+
 <a href="https://www.facebook.com/profile.php?id=100075907268392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tama" height="30" width="40" /></a>
 <a href="https://instagram.com/prtma_282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prtma_282" height="30" width="40" /></a>
 </p>
