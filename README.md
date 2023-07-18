@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+MR+TAMA+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm MrTama</h1>
+<h1 align="center">ℍ𝕚 👋, 𝕀'𝕞 𝕄𝕣𝕋𝕒𝕞𝕒</h1>
 
 <h3 align="center">Dari Indonesia</h3>
 </p>
